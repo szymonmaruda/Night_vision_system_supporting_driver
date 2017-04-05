@@ -14,7 +14,7 @@ Do wykorzystania:
 Gotowy matlabowy kod, który oznacza przechodniów na obrazie z kamery - można przerobić na wykrywanie przez progowanie.
 
 2. **Detecting Cars Using Gaussian Mixture Models**
->[link](https://www.mathworks.com/examples/matlab-computer-vision/mw/vision_product-videotrafficgmm-detecting-cars-using-gaussian-mixture-models "link")
+[link](https://www.mathworks.com/examples/matlab-computer-vision/mw/vision_product-videotrafficgmm-detecting-cars-using-gaussian-mixture-models "link")
 >![auta](https://www.mathworks.com/help/releases/R2017a/examples/vision_product/win64/videotrafficgmm_04.png)
 
 >Również matlabowy kod, który zaznacza wyszukane na filmie auta oparty na wyszukiwaniu pierwszego planu przy pomocy modeli Gaussa.
